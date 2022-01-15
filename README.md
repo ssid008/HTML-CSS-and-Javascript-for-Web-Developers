@@ -1,3 +1,4 @@
 # coursera-test
 Coursera test repository
-ssid008.github.io/Assignments/module-2/
+Module-2 Assignment
+https://ssid008.github.io/Assignments/module-2/
